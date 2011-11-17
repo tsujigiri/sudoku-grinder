@@ -1,4 +1,4 @@
-= Sudoku Grinder
+# Sudoku Grinder
 
 A Sudoku solver written in Erlang as a little finger exercise.
 
